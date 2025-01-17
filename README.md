@@ -26,6 +26,8 @@ As a passionate individual in the field of technology, I am constantly exploring
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,laravel,js,react,python,mysql,github,git,bootstrap,tailwind,cpp,figma)
 <br/>
 
+## 📊 GitHub Stats:
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimhsta&theme=github-compact&radius=16" height="auto" alt="by Kimhsta"/>
 </div>
