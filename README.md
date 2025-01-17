@@ -23,7 +23,7 @@ As a passionate individual in the field of technology, I am constantly exploring
 
 ## 🧰 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,laravel,js,react,python,mysql,github,git,materialui,bootstrap,tailwind,cpp,figma)
+![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,laravel,js,react,python,mysql,github,git,bootstrap,tailwind,cpp,figma)
 <br/>
 
 <div align="left">
