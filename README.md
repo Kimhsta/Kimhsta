@@ -21,7 +21,11 @@ As a passionate individual in the field of technology, I am constantly exploring
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </div>
 
-<br>
+## 🧰 Languages and Tools:
+
+![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,laravel,js,react,python,mysql,github,git,materialui,bootstrap,tailwind,cpp,figma)
+<br/>
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimhsta&theme=github-compact&radius=16" height="auto" alt="by Kimhsta"/>
 </div>
