@@ -31,6 +31,6 @@ As a 4th-semester student majoring in Computer Science (Teknik Informatika), I a
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimhsta&theme=github-compact&radius=16" height="auto" alt="by Kimhsta"/>
 </div>
-
+<br/>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
