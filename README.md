@@ -2,7 +2,7 @@
 
 # Hi 👋! I'm Kiki Mahesta
 
-As a passionate individual in the field of technology, I am constantly exploring new tools and trends to enhance my skills. I enjoy working on projects that challenge me and help me grow as a developer. Let's connect and collaborate!
+As a 4th-semester student majoring in Computer Science (Teknik Informatika), I am passionate about **front-end web and mobile development** as well as **UI/UX design**. I constantly explore new tools and trends to enhance my skills and enjoy working on projects that challenge me to grow as a developer and designer. Let's connect and collaborate!
 
 <!-- ## 🌐 Socials: -->
 
@@ -21,7 +21,7 @@ As a passionate individual in the field of technology, I am constantly exploring
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" />
 </div>
 
-## 🧰 Languages and Tools:
+## 💻 Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,laravel,js,react,python,mysql,github,git,bootstrap,tailwind,cpp,figma)
 <br/>
