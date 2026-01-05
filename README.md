@@ -2,7 +2,7 @@
 
 # Hi 👋! I'm Kiki Mahesta
 
-As a 4th-semester student majoring in Computer Science (Teknik Informatika), I am passionate about **front-end web and mobile development** as well as **UI/UX design**. I constantly explore new tools and trends to enhance my skills and enjoy working on projects that challenge me to grow as a developer and designer. Let's connect and collaborate!
+As a 5th-semester student majoring in Computer Science (Teknik Informatika), I am passionate about **front-end web and mobile development** as well as **UI/UX design**. I constantly explore new tools and trends to enhance my skills and enjoy working on projects that challenge me to grow as a developer and designer. Let's connect and collaborate!
 
 <!-- ## 🌐 Socials: -->
 
