@@ -6,7 +6,7 @@ As a 5th-semester student majoring in Computer Science (Teknik Informatika), I a
 
 <!-- ## 🌐 Socials: -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arc.hikoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-rizki-suwarno/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kimhsta.ti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-rizki-suwarno/)
 
 <!-- ## 💻 Technical Skills:
 
